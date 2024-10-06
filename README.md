@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cem Koymen</h1>
 <h3 align="center">I'm a Finance/Economics student with a passion for financial and data engineering. I enjoy applying my skills in Python, SQL, and econometrics to solve real-world problems in finance. I’m currently working on projects that integrate data analysis, financial markets, and coding. In this profile you can find all my projects related to my interest</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whistlesurprise&label=Profile%20views&color=0e75b6&style=flat" alt="whistlesurprise" /> </p>
-
 - 🔭 I’m currently working on **projects related to financial and data engineering.**
 
 - 🌱 I’m currently learning **Econometrics and machine learning applications in finance**
